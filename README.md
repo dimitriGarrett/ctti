@@ -1,6 +1,6 @@
 # ctti
-<<<<<<< HEAD
-The Compile-Time Type Information is a header only library that allows for keys that are types in stl maps. Requires C++ 20 (pun intended)
+
+The Compile-Time Type Information is a header only library that allows for keys that are types in STL maps. Requires C++20 (pun intended)
 
 # Example
 
